@@ -1,0 +1,22 @@
+{
+  "name": "aws-test",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "David Jones <david.jones@mso.net <david.jones@mso.net <>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6"
+  }
+}
